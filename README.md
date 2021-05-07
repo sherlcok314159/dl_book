@@ -7,7 +7,7 @@
 
 # 目录
 
-- [第一章Normalization](https://github.com/sherlcok314159/dl_book/releases/tag/1.0)
+- 第一章[Normalization](https://github.com/sherlcok314159/dl_book/releases/tag/1.0)
 
 
 
