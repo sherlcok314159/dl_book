@@ -4,3 +4,6 @@
 这本《可解释性模型》记录了自己对于这些理论的研究发现，同时也会带来行业最新的进展，以及会留下自己的问题，just for open discussions。希望能够多了解模型一些，未来成为一名名副其实的算法工程师。
 
 本人才疏学浅，更兼时间和精力有限，不免出现谬误，希望读者朋友能够指正，另外，也欢迎有这方面想法的伙伴一起加入进来，联系微信Yunpengtai。
+
+# LICENSE
+[GNU General Public License v3.0](https://github.com/sherlcok314159/dl_book/blob/main/LICENSE)
