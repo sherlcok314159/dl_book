@@ -5,5 +5,11 @@
 
 本人才疏学浅，更兼时间和精力有限，不免出现谬误，希望读者朋友能够指正，另外，也欢迎有这方面想法的伙伴一起加入进来，联系微信Yunpengtai。
 
+# 目录
+
+- [第一章Normalization](https://github.com/sherlcok314159/dl_book/releases/tag/1.0)
+
+
+
 # LICENSE
 [GNU General Public License v3.0](https://github.com/sherlcok314159/dl_book/blob/main/LICENSE)
