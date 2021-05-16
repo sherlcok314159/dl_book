@@ -10,6 +10,7 @@
 点链接然后选版本下载PDF就好
 
 - 第一章 [Normalization](https://github.com/sherlcok314159/dl_book/releases/tag/1.0)
+- 第二章[Gradient Problems](https://github.com/sherlcok314159/dl_book/releases/tag/1.1)
 
 
 
